@@ -2,4 +2,4 @@ MemoryCats
 ==========
 
 A simple memory game with cute cats
-![Preview of the game](https://github.com/alchm/memorycats/blob/master/img/picture.png)
+![Picture of the game](https://raw.githubusercontent.com/alchm/memorycats/master/img/picture.png "Logo Title Text 1")
